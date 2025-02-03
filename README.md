@@ -24,6 +24,24 @@
 </p>
 
 
+<br>
+<div display="inblock" align="center">
+<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/html5-colored.svg" width="40">
+<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/css3-colored.svg" width="40">
+<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/c-colored.svg" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/>
+</div>
+<br>
+
+
+
 <p align="left">
   <a href="https://www.linkedin.com/in/marcos-gabriel-moreira-fonseca-75889b267" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
@@ -32,3 +50,4 @@
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
