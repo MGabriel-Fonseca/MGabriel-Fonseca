@@ -1,3 +1,6 @@
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/9c9dea5c-940e-46dd-96c1-7b847041ff4e"/>
+
+
 ## Olá! Sou o Gabriel Fonseca👋
 
 
