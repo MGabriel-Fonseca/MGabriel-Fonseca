@@ -4,7 +4,7 @@
 ## Olá! Sou o Gabriel Fonseca👋
 
 
-- 🔭 Atualmente estou cursando Ciência da Computação na Universidade Federal De Uberlândia, atualmente no 5° período (5/8)
+- 🔭 Atualmente estou cursando Ciência da Computação na Universidade Federal De Uberlândia, atualmente no 6° período (6/8)
 - 🌱 Atualmente estou aprendendo JavaScript
 - 😄 Pronouns: Ele/Dele
 
