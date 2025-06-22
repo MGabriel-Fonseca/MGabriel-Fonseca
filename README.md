@@ -4,8 +4,7 @@
 ## Olá! Sou o Gabriel Fonseca👋
 
 
-- 🔭 Atualmente estou cursando Ciência da Computação na Universidade Federal De Uberlândia, atualmente no 6° período (6/8)
-- 🌱 Atualmente estou aprendendo JavaScript
+- 🔭 Estudante de Ciência da Computação na UFU (6º período), com foco em desenvolvimento de software, estruturas de dados e design de sistemas. Experiência em projetos acadêmicos envolvendo back-end, front-end e padrões de projeto. Buscando oportunidade de estágio para aplicar e expandir minhas habilidades em desenvolvimento de software
 - 😄 Pronouns: Ele/Dele
 
 
